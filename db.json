@@ -1,0 +1,8 @@
+
+ {
+    "products":[
+        {"id":"p1","name":"p1","price":123,"size":"M","quant":2},
+        {"id":"p2","name":"p2","price":123,"size":"M","quant":2}
+    ]
+
+}
