@@ -38,7 +38,7 @@
         "password":"om123"
       }
     ],
-    "task":[
+    "tasks":[
       {
         "id":1,
         "email":"om@gmail.com",
