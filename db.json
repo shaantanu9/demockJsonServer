@@ -3,14 +3,42 @@
     {
       "id": 1,
       "name": "Cherry",
-      "age": 2,
+      "age": 22,
       "place": "Visakhapatnam",
       "gender": "Male"
     },
     {
       "id": 2,
       "name": "Tommy",
-      "age": 3,
+      "age": 35,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Tommy",
+      "age": 37,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "name": "Tommy",
+      "age": 32,
+      "place": "Banglore",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "name": "Tommy",
+      "age": 23,
+      "place": "Banglore",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Tommy",
+      "age": 31,
       "place": "Banglore",
       "gender": "Female"
     }
